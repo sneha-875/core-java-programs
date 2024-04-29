@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 
 // take user i/p as char and tell user if it vowel
-public class program_3 {
+public class check_vowels_consonant {
     public static void main(String[] args) {
 
         Scanner sc=new Scanner(System.in);

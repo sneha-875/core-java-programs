@@ -3,7 +3,7 @@ package switch_case;
 import java.util.Scanner;
 
 // user will enter a number and we will tell which day it is
-public class program_1 {
+public class enter_number_toknow_which_dayitis {
 
     public static void main(String[] args) {
 

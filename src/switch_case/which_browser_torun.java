@@ -1,13 +1,13 @@
 package switch_case;
 
 import java.util.Scanner;
-
-public class program_2 {
+//ask user which browser you want me to run
+public class which_browser_torun {
 
     public static void main(String[] args) {
 
         //web automation
-        //ask user which browser you want me to run
+
 
         Scanner sc=new Scanner(System.in);
         System.out.println("enter the browser name");
