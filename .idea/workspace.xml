@@ -6,53 +6,61 @@
   <component name="ChangeListManager">
     <list default="true" id="d3402906-9306-44e2-bdeb-c02987a8b44c" name="Changes" comment="first commit">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Core Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/ATB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/program_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/program_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/program_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/program_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/program_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/program_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/program_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functions/program_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functions/program_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functions/program_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functions/program_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functions/program_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_else/check_positive_negative_numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_else/check_vowels_consonant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_else/grade_calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_else/leap_year.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_else/maxium_of_three_numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_else/prime_numers_r.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/imp_questions/change_exit_code.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/basic_do_while_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/basic_for_loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/basic_for_loop_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/basic_for_loop_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/basic_for_loop_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/basic_for_loop_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/basic_for_loop_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/basic_for_loop_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/basic_while_loop_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/basic_while_loop_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/even_odd_with_continue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/fizzbuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/print_even_nos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/table_of_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/switch_case/airthematic_operations_using_switch_case.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/switch_case/program_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/switch_case/program_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/switch_case/program_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OPPs/abstraction/using_abstract_class/eample_3/AB_002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OPPs/abstraction/using_abstract_class/eample_4/AB_003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OPPs/abstraction/using_abstract_class/example_2/AB_001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OPPs/abstraction/using_abstract_class/example_5/ab_004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OPPs/abstraction/using_abstract_class/example_6/ab_005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OPPs/abstraction/using_abstract_class/example_7/abs_006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OPPs/abstraction/using_abstract_class/example_8/abs_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OPPs/polymorshism/mehod_overloading/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OPPs/polymorshism/mehod_overloading/person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OPPs/polymorshism/method_overriding/dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OPPs/polymorshism/method_overriding/hound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OPPs/polymorshism/method_overriding/mc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/max_min_using_ternary_operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/program_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/program_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/program_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/program_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/program_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_else/basic_if_else_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_else/basic_if_else_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_else/basic_if_else_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_else/basis_if_else_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_else/traiangle_classifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/basic_string_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/basic_string_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/basic_string_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/basic_string_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/basic_strings_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/basic_strings_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/basic_strings_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/basic_strings_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/basic_strings_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switch_case/basic_switch_case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switch_case/basic_switch_case_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switch_case/basic_switch_case_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switch_case/basic_switch_case_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switch_case/basic_switch_case_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switch_case/basic_switch_case_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switch_case/basic_switch_case_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switch_case/basic_switch_case_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switch_case/basic_switch_case_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switch_case/check_grades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switch_case/switch_no_case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switch_case/traffic_light_simulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switch_case/traffic_simulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switch_case/yield_switch_case.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPS/ATB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPS/person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPS/program_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/if_else/grade_calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/if_else/grade_calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/imp_questions/change_exit_code.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,32 +90,68 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AB_001.executor": "Run",
+    "Application.AB_002.executor": "Run",
+    "Application.AB_003.executor": "Run",
     "Application.Class.executor": "Run",
+    "Application.Maximun_of_two_numbers.executor": "Run",
     "Application.Package.executor": "Run",
+    "Application.abs_7.executor": "Run",
     "Application.airthematic_operations_using_switch_case.executor": "Run",
     "Application.basic_do_while_1.executor": "Run",
+    "Application.basic_for_loop.executor": "Run",
     "Application.basic_for_loop_2.executor": "Run",
     "Application.basic_for_loop_3.executor": "Run",
     "Application.basic_for_loop_4.executor": "Run",
     "Application.basic_for_loop_5.executor": "Run",
     "Application.basic_for_loop_6.executor": "Run",
     "Application.basic_for_loop_8.executor": "Run",
+    "Application.basic_if_else_1.executor": "Run",
+    "Application.basic_if_else_2.executor": "Run",
+    "Application.basic_if_else_3.executor": "Run",
     "Application.basic_loop_7.executor": "Run",
+    "Application.basic_string_4.executor": "Run",
+    "Application.basic_string_6.executor": "Run",
+    "Application.basic_string_7.executor": "Run",
+    "Application.basic_string_8.executor": "Run",
+    "Application.basic_strings_1.executor": "Run",
+    "Application.basic_strings_2.executor": "Run",
+    "Application.basic_strings_3.executor": "Run",
+    "Application.basic_strings_5.executor": "Run",
+    "Application.basic_strings_9.executor": "Run",
+    "Application.basic_switch_case.executor": "Run",
+    "Application.basic_switch_case_2.executor": "Run",
+    "Application.basic_switch_case_3.executor": "Run",
+    "Application.basic_switch_case_4.executor": "Run",
+    "Application.basic_switch_case_5.executor": "Run",
+    "Application.basic_switch_case_6.executor": "Run",
+    "Application.basic_switch_case_7.executor": "Run",
+    "Application.basic_switch_case_8.executor": "Run",
+    "Application.basic_switch_case_9.executor": "Run",
     "Application.basic_while_loop_1.executor": "Run",
     "Application.basic_while_loop_8.executor": "Run",
+    "Application.basis_if_else_4.executor": "Run",
     "Application.change_exit_code.executor": "Run",
+    "Application.check_grades.executor": "Run",
     "Application.even_odd_with_continue.executor": "Run",
     "Application.factorial.executor": "Run",
     "Application.fizzbuzz.executor": "Run",
     "Application.grade_calculator.executor": "Run",
     "Application.helloWorld.executor": "Run",
     "Application.if_else.program_2.executor": "Run",
+    "Application.imp_1.executor": "Run",
+    "Application.imp_2.executor": "Run",
     "Application.leap_year.executor": "Run",
     "Application.main.executor": "Run",
+    "Application.max_min_using_ternary_operator.executor": "Run",
+    "Application.mc.executor": "Run",
     "Application.oops.program_2.executor": "Run",
+    "Application.pattern_1.executor": "Run",
     "Application.prime_numers.executor": "Run",
     "Application.print_even_nos.executor": "Run",
     "Application.program_1.executor": "Run",
+    "Application.program_12.executor": "Run",
+    "Application.program_13.executor": "Run",
     "Application.program_2.executor": "Run",
     "Application.program_3.executor": "Run",
     "Application.program_4.executor": "Run",
@@ -115,13 +159,21 @@
     "Application.program_6.executor": "Run",
     "Application.program_7.executor": "Run",
     "Application.program_8.executor": "Run",
+    "Application.program_9.executor": "Run",
+    "Application.runner.executor": "Run",
+    "Application.switch_no_case.executor": "Run",
     "Application.table_of_5.executor": "Run",
+    "Application.traffic_light_simulation.executor": "Run",
+    "Application.traffic_simulation.executor": "Run",
+    "Application.traiangle_classifier.executor": "Run",
+    "Application.which_browser_torun.executor": "Run",
+    "Application.yield_switch_case.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/intellij programs/Core Java",
+    "last_opened_file_path": "E:/intellij programs/core_java_basics",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -165,6 +217,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="pattern_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns.pattern_1" />
+      <module name="Core Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="program_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basics.program_2" />
       <module name="Core Java" />
@@ -180,6 +245,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.pattern_1" />
         <item itemvalue="Application.factorial" />
         <item itemvalue="Application.check_positive_negative_numbers" />
         <item itemvalue="Application.grade_calculator" />
@@ -211,7 +277,23 @@
       <option name="project" value="LOCAL" />
       <updated>1713768867604</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1714356312204</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714356312205</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1714367379149</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714367379149</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

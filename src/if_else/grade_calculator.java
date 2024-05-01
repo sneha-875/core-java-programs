@@ -13,27 +13,25 @@ public class grade_calculator {
         System.out.println("enter the score");
         int score=sc.nextInt();
 
-        char grade ;
+        char grade='F' ;
 
 
         if(score >=90 && score <=100) {
-            System.out.println("A");
+            grade='A';
         }
         else if(score >=80 && score<=89) {
-            System.out.println("B");
+            grade='B';
         }
         else if(score >=70 && score<=79) {
-            System.out.println("C");
+            grade='C';
         }
         else if(score >=60 && score<=69) {
-            System.out.println("D");
-        }
-        else if(score >100) {
-            System.out.println("LOL");
+            grade = 'D';
         }
         else{
             grade='F';
         }
+        System.out.println("your grade is"+grade);
       sc.close();
     }
 }
