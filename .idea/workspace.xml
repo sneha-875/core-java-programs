@@ -4,63 +4,71 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3402906-9306-44e2-bdeb-c02987a8b44c" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OPPs/abstraction/using_abstract_class/eample_3/AB_002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OPPs/abstraction/using_abstract_class/eample_4/AB_003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OPPs/abstraction/using_abstract_class/example_2/AB_001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OPPs/abstraction/using_abstract_class/example_5/ab_004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OPPs/abstraction/using_abstract_class/example_6/ab_005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OPPs/abstraction/using_abstract_class/example_7/abs_006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OPPs/abstraction/using_abstract_class/example_8/abs_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OPPs/polymorshism/mehod_overloading/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OPPs/polymorshism/mehod_overloading/person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OPPs/polymorshism/method_overriding/dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OPPs/polymorshism/method_overriding/hound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OPPs/polymorshism/method_overriding/mc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/max_min_using_ternary_operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/program_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/program_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/program_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/program_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/program_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_else/basic_if_else_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_else/basic_if_else_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_else/basic_if_else_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_else/basis_if_else_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_else/traiangle_classifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/pattern_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/basic_string_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/basic_string_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/basic_string_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/basic_string_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/basic_strings_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/basic_strings_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/basic_strings_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/basic_strings_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/basic_strings_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/switch_case/basic_switch_case.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/switch_case/basic_switch_case_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/switch_case/basic_switch_case_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/switch_case/basic_switch_case_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/switch_case/basic_switch_case_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/switch_case/basic_switch_case_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/switch_case/basic_switch_case_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/switch_case/basic_switch_case_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/switch_case/basic_switch_case_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/switch_case/check_grades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/switch_case/switch_no_case.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/switch_case/traffic_light_simulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/switch_case/traffic_simulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/switch_case/yield_switch_case.java" afterDir="false" />
+    <list default="true" id="d3402906-9306-44e2-bdeb-c02987a8b44c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/OPPs/abstraction/using_abstract_class/example_9/ab_008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OPPs/abstraction/using_interface/IN_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OPPs/abstraction/using_interface/IN_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OPPs/abstraction/using_interface/IN_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OPPs/abstraction/using_interface/IN_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OPPs/abstraction/using_interface/IN_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OPPs/abstraction/using_interface/IN_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OPPs/nested_class/AC_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OPPs/nested_class/NC_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OPPs/nested_class/NC_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OPPs/nested_class/NC_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OPPs/nested_class/NC_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OPPs/wrapper_class/wp_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OPPs/wrapper_class/wp_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OPPs/wrapper_class/wp_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OPPs/wrapper_class/wp_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OPPs/wrapper_class/wp_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OPPs/wrapper_class/wp_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OPPs/wrapper_class/wp_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OPPs/wrapper_class/wp_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/AR_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/AR_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/AR_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/AR_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/AR_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/AR_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/AR_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/AR_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/AR_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/AR_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/AR_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/AR_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/max_salary_WHILELoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/max_salary_in_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/True.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/program_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/custom_exception_1_problem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/tt_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/fizzbuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/prime_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/prime_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/basic_string_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/palindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPS/ATB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPS/person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPS/program_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/if_else/grade_calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/if_else/grade_calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/imp_questions/change_exit_code.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OPPs/abstraction/using_abstract_class/eample_3/AB_002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OPPs/abstraction/using_abstract_class/example_3/AB_002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/Package.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Package.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/patterns/pattern_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/patterns/pattern_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,9 +101,27 @@
     "Application.AB_001.executor": "Run",
     "Application.AB_002.executor": "Run",
     "Application.AB_003.executor": "Run",
+    "Application.AC_1.executor": "Run",
+    "Application.AR_1.executor": "Run",
+    "Application.AR_10.executor": "Run",
+    "Application.AR_11.executor": "Run",
+    "Application.AR_12.executor": "Run",
+    "Application.AR_2.executor": "Run",
+    "Application.AR_3.executor": "Run",
+    "Application.AR_4.executor": "Run",
+    "Application.AR_5.executor": "Run",
+    "Application.AR_6.executor": "Run",
+    "Application.AR_7.executor": "Run",
+    "Application.AR_8.executor": "Run",
     "Application.Class.executor": "Run",
+    "Application.IN_01.executor": "Run",
+    "Application.IN_03.executor": "Run",
+    "Application.IN_04.executor": "Run",
+    "Application.IN_05.executor": "Run",
     "Application.Maximun_of_two_numbers.executor": "Run",
+    "Application.NC_2.executor": "Run",
     "Application.Package.executor": "Run",
+    "Application.True.executor": "Run",
     "Application.abs_7.executor": "Run",
     "Application.airthematic_operations_using_switch_case.executor": "Run",
     "Application.basic_do_while_1.executor": "Run",
@@ -110,6 +136,7 @@
     "Application.basic_if_else_2.executor": "Run",
     "Application.basic_if_else_3.executor": "Run",
     "Application.basic_loop_7.executor": "Run",
+    "Application.basic_string_10.executor": "Run",
     "Application.basic_string_4.executor": "Run",
     "Application.basic_string_6.executor": "Run",
     "Application.basic_string_7.executor": "Run",
@@ -133,7 +160,24 @@
     "Application.basis_if_else_4.executor": "Run",
     "Application.change_exit_code.executor": "Run",
     "Application.check_grades.executor": "Run",
+    "Application.custom_exception_1.executor": "Run",
     "Application.even_odd_with_continue.executor": "Run",
+    "Application.ex_1.executor": "Run",
+    "Application.ex_10.executor": "Run",
+    "Application.ex_11.executor": "Run",
+    "Application.ex_12.executor": "Run",
+    "Application.ex_13.executor": "Run",
+    "Application.ex_14.executor": "Run",
+    "Application.ex_15.executor": "Run",
+    "Application.ex_16.executor": "Run",
+    "Application.ex_2.executor": "Run",
+    "Application.ex_3.executor": "Run",
+    "Application.ex_4.executor": "Run",
+    "Application.ex_5.executor": "Run",
+    "Application.ex_6.executor": "Run",
+    "Application.ex_7.executor": "Run",
+    "Application.ex_8.executor": "Run",
+    "Application.ex_9.executor": "Run",
     "Application.factorial.executor": "Run",
     "Application.fizzbuzz.executor": "Run",
     "Application.grade_calculator.executor": "Run",
@@ -144,14 +188,18 @@
     "Application.leap_year.executor": "Run",
     "Application.main.executor": "Run",
     "Application.max_min_using_ternary_operator.executor": "Run",
+    "Application.max_salary_WHILELoop.executor": "Run",
+    "Application.max_salary_in_array.executor": "Run",
     "Application.mc.executor": "Run",
     "Application.oops.program_2.executor": "Run",
+    "Application.palindrome.executor": "Run",
     "Application.pattern_1.executor": "Run",
     "Application.prime_numers.executor": "Run",
     "Application.print_even_nos.executor": "Run",
     "Application.program_1.executor": "Run",
     "Application.program_12.executor": "Run",
     "Application.program_13.executor": "Run",
+    "Application.program_14.executor": "Run",
     "Application.program_2.executor": "Run",
     "Application.program_3.executor": "Run",
     "Application.program_4.executor": "Run",
@@ -166,7 +214,16 @@
     "Application.traffic_light_simulation.executor": "Run",
     "Application.traffic_simulation.executor": "Run",
     "Application.traiangle_classifier.executor": "Run",
+    "Application.tt_3.executor": "Run",
     "Application.which_browser_torun.executor": "Run",
+    "Application.wp_1.executor": "Run",
+    "Application.wp_2.executor": "Run",
+    "Application.wp_3.executor": "Run",
+    "Application.wp_4.executor": "Run",
+    "Application.wp_5.executor": "Run",
+    "Application.wp_6.executor": "Run",
+    "Application.wp_7.executor": "Run",
+    "Application.wp_8.executor": "Run",
     "Application.yield_switch_case.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -178,6 +235,20 @@
   }
 }]]></component>
   <component name="RunManager">
+    <configuration name="AR_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.AR_7" />
+      <module name="Core Java" />
+      <option name="PROGRAM_PARAMETERS" value="12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="check_positive_negative_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="if_else.check_positive_negative_numbers" />
       <module name="Core Java" />
@@ -204,12 +275,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="grade_calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="if_else.grade_calculator" />
+    <configuration name="max_salary_in_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.max_salary_in_array" />
       <module name="Core Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="if_else.*" />
+          <option name="PATTERN" value="arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,26 +301,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="program_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics.program_2" />
-      <module name="Core Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Application.max_salary_in_array" />
+      <item itemvalue="Application.AR_7" />
+      <item itemvalue="Application.check_positive_negative_numbers" />
+      <item itemvalue="Application.factorial" />
+      <item itemvalue="Application.pattern_1" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.pattern_1" />
+        <item itemvalue="Application.max_salary_in_array" />
+        <item itemvalue="Application.AR_7" />
         <item itemvalue="Application.factorial" />
         <item itemvalue="Application.check_positive_negative_numbers" />
-        <item itemvalue="Application.grade_calculator" />
-        <item itemvalue="Application.program_2" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +358,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714367379149</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1714559190539</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714559190539</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -310,5 +383,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Core_Java$AR_7.ic" NAME="AR_7 Coverage Results" MODIFIED="1714721182877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>arrays.*</FILTER>
+    </SUITE>
   </component>
 </project>

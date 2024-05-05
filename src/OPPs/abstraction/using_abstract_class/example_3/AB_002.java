@@ -1,4 +1,4 @@
-package OPPs.abstraction.using_abstract_class.eample_3;
+package OPPs.abstraction.using_abstract_class.example_3;
 
 public class AB_002 {
 
