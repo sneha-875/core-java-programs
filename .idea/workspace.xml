@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3402906-9306-44e2-bdeb-c02987a8b44c" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/assignment/arithemetic_operations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment/double_an_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment/duplicate_string.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment/largest_in_three_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment/leap_year.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment/max_salary_input_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment/positive_negative_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment/print_marks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment/reverse_string.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment/vowels_consonant.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/functions/function_6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/arrays/AR_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/AR_9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/fizzbuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignment/fizzbuzz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/prime_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignment/prime_number.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +23,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -203,7 +192,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/intellij programs/Selenium",
+    "last_opened_file_path": "E:/intellij programs/Core Java",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -347,7 +336,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714906406091</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1715079914046</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715079914046</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

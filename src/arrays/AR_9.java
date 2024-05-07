@@ -9,7 +9,8 @@ public class AR_9 {
         for (int i = 0; i <arrays.length ; i++) {
             arrays[i] = arrays[i] *2;
         }
-         System.out.println("");
-
+        for (int i = 0; i <arrays.length ; i++) {
+            System.out.println(arrays[i]);
+        }
     }
 }
