@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a9ea14c-158d-4f0f-b515-46fcb6c1211f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/arithemetic_operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/double_an_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/duplicate_string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/largest_in_three_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leap_year.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/max_salary_input_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/positive_negative_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/print_marks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reverse_string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vowels_consonant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/AR_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/../arrays/AR_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework/fizzbuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/fizzbuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework/prime_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/prime_number.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2g63OCk0FDxWWONBhKhg6MhzDAe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/intellij programs/Core Java"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a9ea14c-158d-4f0f-b515-46fcb6c1211f" name="Changes" comment="" />
+      <created>1715004165497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715004165497</updated>
+    </task>
+    <servers />
+  </component>
+</project>
